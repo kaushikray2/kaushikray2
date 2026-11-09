@@ -20,7 +20,6 @@ I build things end to end: bare-metal firmware, custom PCBs, long-range radio te
 
 - 🌐 [siliconbrane.com](https://siliconbrane.com)
 - 🛰️ [drovertracker.com](https://drovertracker.com)
-- ✉️ ray@siliconbrane.com
 
 ---
 
